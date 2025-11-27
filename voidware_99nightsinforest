@@ -1,2 +1,3 @@
 -- voidware script :D
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VWExtra/main/NightsInTheForest.lua", true))()
+-- Скопируй скрипт, вставь в инжектор и запускай!1!!!11!!!!
